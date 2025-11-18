@@ -61,3 +61,15 @@ Les workflows, ou actions, sont des jobs automatiques que GitHub lance à chaque
 Comme j'ai désactivé moi-même en plus certains workflows de mon profil avant de le cloner sur InsermRightLab, il est possible que même après réactivation certains soient toujours désactivés, dans ce cas il faudra aller sur eux pour les réactiver (voir capture d'écran). Le plus important est Deploy site, qui est celui qui construit le site. Le workflow Prettier code formatter ne doit pas être réactivé ou alors il faut le désactiver, si celui-ci c'est activé, car il va échouer à chaque fois (pour désactiver, c'est les 3 points en haut à droite).
 
 ![deploy_site](readme_preview/deploy_site.png)
+
+Ensuite, il va falloir activer plusieurs options. D'abord, il va falloir aller dans Settings -> Actions -> General et activer Workflow permissions sur "Read and write permissions" (voir captures d'écran)
+
+![settings](readme_preview/settings.png)
+
+![settings_read_write](readme_preview/settings_read_write.png)
+
+Enfin, il faut modifier quelque chose sur le site pour commit cette modification et lancer la construction du site. Une fois complétée, il faut de nouveau aller dans Settings -> Pages et mettre la branche sur gh-pages (voir capture d'écran)
+
+![settings_pages](readme_preview/settings_pages.png)
+
+Le site devrait maintenant fonctionner en allant sur son adresse https://pseudo.github.io !
