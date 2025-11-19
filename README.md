@@ -1,10 +1,10 @@
 # Template portfolio UMR Right
 
-Ce repo contient le code minimal nécessaire pour réaliser un site internet hébergé sur GitHub et présentant les diverses analyses bioinformatiques que chacun des membres du groupe de travail bioinfo maitrise et peut proposer aux divers demandeurs au sein de l'UMR Right ou collaborateurs extérieurs. Sa structure est basée sur des fichiers markdown que l'on peut modifier simplement et qui sont ensuite convertis en pages web html par Jekyll. Vous pouvez visiter mon [site](https://Alexis-Varin.github.io) pour voir un exemple de rendu.
+Ce repo contient le code minimal nécessaire pour réaliser un site internet hébergé sur GitHub et présentant les diverses analyses bioinformatiques que chacun des membres du groupe de travail bioinfo maitrise et peut proposer aux divers demandeurs au sein de l'UMR Right ou collaborateurs extérieurs. Sa structure est basée sur des fichiers markdown que l'on peut modifier simplement et qui sont ensuite convertis en pages web html par Jekyll. Vous pouvez visiter mon [site](https://jviot.github.io) pour voir un exemple de rendu.
 
 Il peut être également utilisé par tout étudiant ou personnel souhaitant avoir une présence sur GitHub, modifier cette template pour remplacer "bioinformatic analyses" par "projects" ou autre est facile et nécessite simplement de changer les titres et url sur les fichiers markdown présents dans [/_pages/](_pages/).
 
-Pour toute question ou demande, n'hésitez pas à me [contacter](mailto:alexis.varin@inserm.fr).
+Pour toute question ou demande, n'hésitez pas à me [contacter](mailto:jviot@chu-besancon.fr).
 
 ## Etape 1: cloner le repo
 
