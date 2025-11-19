@@ -8,9 +8,9 @@ profile:
   image: RightRlogo.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-size: 0.85rem;">Bureau</p>
-    <p style="font-size: 0.85rem;">Adresse</p>
-    <p style="font-size: 0.85rem;">Code Postal, Ville, Pays</p>
+    <p style="font-size: 0.85rem;">UMQVC Bat. Bleu CHU Besançon</p>
+    <p style="font-size: 0.85rem;">3 boulevard alexandre Fleming</p>
+    <p style="font-size: 0.85rem;">25000, Besançon, France</p>
     <br>
     <br>
     <br>
@@ -32,4 +32,6 @@ announcements:
       </a>
     </div>
 </div>
-Introduction ici
+Welcome to my GitHub portfolio, where you will find an overview of the bioinformatic analyses and visualizations I develop for internal and collaborative research projects.
+
+I am a researcher in the <a href="https://umr-right.com" target="_blank" rel="noopener noreferrer">Inserm UMR Right (U1098) lab</a> and a Medical Oncologist in the <a href="hhttps://www.chu-besancon.fr" target="_blank" rel="noopener noreferrer">University hospital of Besançon</a>. I specialize in breast, lung, and colorectal cancers. My expertise includes bioinformatics analysis of bulk RNA-seq and single-cell RNA-seq data. My doctoral research focused on the analysis of endogenous retroviruses in metastatic colorectal cancer. Additionally, I have expertise in cancer immunology and am developing skills in artificial intelligence.... You can contact me using the links in the navigation bar
