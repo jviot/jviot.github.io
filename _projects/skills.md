@@ -13,7 +13,7 @@ With a strong background in cancer research and bioinformatics, I specialize in 
 
 <div class="expertise-title">Significant Experience</div>
 <ul>
-<li><strong>Transcriptomics (Bulk RNA-seq):</strong> RNA-seq alignment (genome-based or pseudo-alignment), transcript or gene counting, and analysis (Ref: 1–6)</li>
+<li><strong>Transcriptomics (Bulk RNA-seq):</strong> RNA-seq alignment (genome-based or pseudo-alignment), transcript or gene counting, and analysis</li>
 <li><strong>Differential Gene Expression Analysis</strong> </li>
 <li><strong>Pathway Enrichment Analysis</strong> </li>
 <li><strong>Immune Deconvolution</strong> </li>
@@ -34,6 +34,7 @@ With a strong background in cancer research and bioinformatics, I specialize in 
 <li><strong>Digital Pathology (QuPath)</strong></li>
 </ul>
 </div>
+
 
 
 
