@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Skills
-img: assets/img/
+img: assets/img/RightRlogo.png
 importance: 1
 category: Skills
 related_publications: true
 ---
+With a strong background in cancer research and bioinformatics, I specialize in analyzing complex biological datasets to uncover insights into breast, lung, and colorectal cancers. Below are my key areas of expertise, ranging from well-established skills to exploratory techniques in genomics, transcriptomics, and computational biology
+
     <div class="expertise-section">
         <h2>Areas of Expertise</h2>
 
@@ -32,6 +34,7 @@ related_publications: true
             <li><strong>Digital Pathology (QuPath)</strong></li>
         </ul>
     </div>
+
 
 
 
