@@ -1,17 +1,17 @@
 {
   "basics": {
-    "name": "",
+    "name": "Julien Viot",
     "label": "",
-    "image": "",
-    "email": "",
-    "phone": "",
-    "url": "",
-    "summary": "",
+    "image": "id_low.PNG",
+    "email": "jviot@chu-besancon.fr",
+    "phone": "+33381479999 - +33684783010",
+    "url": "jviot@github.io",
+    "summary": "Medical Oncologist and Bio-Informatician",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
+      "address": "17 Grande Rue",
+      "postalCode": "70150",
+      "city": "Hugier",
+      "countryCode": "France",
       "region": ""
     },
     "profiles": [
@@ -24,14 +24,24 @@
   },
   "work": [
     {
-      "name": "",
-      "position": "",
-      "location": "",
-      "url": "",
-      "startDate": "",
+      "name": "CHU Besançon",
+      "position": "Medical Oncologist",
+      "location": "Besançon, France",
+      "url": "https://www.chu-besancon.fr/",
+      "startDate": "2015-11-01",
       "endDate": "",
-      "summary": "",
-      "highlights": []
+      "summary": "Specialized in Thoracic and Breast Cancer",
+      "highlights": ["Lung Cancer", "Breast Cancer", "Colorectal Cancer"]
+    }
+    {
+      "name": "Inserm UMR RIGHT (1098)",
+      "position": "Researcher",
+      "location": "Besançon, France",
+      "url": "https://umr-right.com/",
+      "startDate": "2021-11-01",
+      "endDate": "",
+      "summary": "With a strong background in cancer research and bioinformatics, I specialize in analyzing complex biological datasets to uncover insights into breast, lung, and colorectal cancers",
+      "highlights": ["Bioinformatic","Artificial Intelligence","Statistics"]
     }
   ],
   "volunteer": [
@@ -47,13 +57,24 @@
   ],
   "education": [
     {
-      "institution": "",
-      "location": "",
+      "institution": "Université de Bourgogne Franche-Comte",
+      "location": "Besançon, France",
       "url": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "area": "Cancer, Immunology",
+      "studyType": "PhD",
+      "startDate": "2021-11-01",
+      "endDate": "2024-12-17",
+      "score": "",
+      "courses": [""]
+    }
+    {
+      "institution": "Université de Franche-Comte",
+      "location": "Besançon, France",
+      "url": "",
+      "area": "Cancer",
+      "studyType": "MD",
+      "startDate": "2015-11-01",
+      "endDate": "2020-11-01",
       "score": "",
       "courses": [""]
     }
@@ -97,8 +118,13 @@
   ],
   "languages": [
     {
-      "language": "",
-      "fluency": "",
+      "language": "French",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent",
       "icon": ""
     }
   ],
