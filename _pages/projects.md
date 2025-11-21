@@ -11,7 +11,7 @@ This portfolio presents a selection of bioinformatic methods I routinely use. Wh
 
 To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference (e.g. bioinformatic algorithms implemented in Python taking advantage of GPU-accelerated computing).
 
-For questions or collaboration inquiries, you can reach me using the links in the navigation bar of the <a href="{{ '/' | relative_url }}">Contact</a> section.
+For questions or collaboration inquiries, you can reach me using the links in the navigation bar of the <a href="jviot@chu-besancon.fr">Contact</a> section.
 
 Currently under construction, the various analyses will be progressively completed.
 
@@ -22,12 +22,12 @@ With a strong background in cancer research and bioinformatics, I specialize in 
 
 <div class="expertise-title">Significant Experience</div>
 <ul>
-<li><strong>Transcriptomics (Bulk RNA-seq):</strong> RNA-seq alignment (genome-based or pseudo-alignment), transcript or gene counting, and analysis</li>
-<li><strong>Differential Gene Expression Analysis</strong> </li>
-<li><strong>Pathway Enrichment Analysis</strong> </li>
-<li><strong>Immune Deconvolution</strong> </li>
-<li><strong>Transposable Elements (with a focus on Endogenous Retroviruses)</strong> </li>
-<li><strong>Biostatistics and Modeling (Machine Learning)</strong> </li>
+<li><strong>Transcriptomics (Bulk RNA-seq):</strong> RNA-seq alignment (genome-based or pseudo-alignment), transcript or gene counting, and analysis.  ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a><a href="https://jviot.github.io/publications/#esr1">2</a><a href="https://jviot.github.io/publications/#transipedia">3</a><a href="https://jviot.github.io/publications/#pan-cancer">4</a><a href="https://jviot.github.io/publications/#cd226">5</a><a href="https://jviot.github.io/publications/#fibroblast">6</a>)</li>
+<li><strong>Differential Gene Expression Analysis</strong> ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a><a href="https://jviot.github.io/publications/#esr1">2</a><a href="https://jviot.github.io/publications/#transipedia">3</a><a href="https://jviot.github.io/publications/#pan-cancer">4</a><a href="https://jviot.github.io/publications/#cd226">5</a><a href="https://jviot.github.io/publications/#fibroblast">6</a>)</li>
+<li><strong>Pathway Enrichment Analysis</strong> ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a><a href="https://jviot.github.io/publications/#esr1">2</a><a href="https://jviot.github.io/publications/#transipedia">3</a><a href="https://jviot.github.io/publications/#pan-cancer">4</a><a href="https://jviot.github.io/publications/#cd226">5</a><a href="https://jviot.github.io/publications/#fibroblast">6</a>)</li>
+<li><strong>Immune Deconvolution</strong> ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a><a href="https://jviot.github.io/publications/#cd226">5</a>)</li>
+<li><strong>Transposable Elements (with a focus on Endogenous Retroviruses)</strong> ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>)</li>
+<li><strong>Biostatistics and Modeling (Machine Learning)</strong>ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>)</li>
 </ul>
 
 <div class="expertise-title">Limited/Exploratory Experience</div>
