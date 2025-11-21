@@ -2,34 +2,37 @@
   type: map
   contents:
     - name: Full Name
-      value:
+      value: Julien Viot
     - name: Date of Birth
-      value:
+      value: 27th March 1990
     - name: Languages
-      value:
+      value: French, English
 
 - title: Education
   type: time_table
   contents:
-    - title: title1
-      institution: institution1
-      year: year1
+    - title: PhD
+      institution: Université Bourgogne Franche-Comté, Besançon, France
+      year: 2021-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - "Caractérisation du profil d'expression des rétrovirus endogènes dans les cancers colorectaux"
+        - "Characterization of the expression profile of endogenous retroviruses in colorectal cancers"
+
+    - title: MD
+      institution: Université Franche-Comté, Besançon, France
+      year: 2015-2020
+      description:
+        - Medical Oncologist
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: title1
-      institution: institution1
-      year: year1
+    - title: Medical Oncologist
+      institution: CHU Besancon, France
+      year: 2015-Today
       description:
-        - Description 1.
+        - Clinical expertise in breast and lung cancers, and biological research expertise in colorectal cancers 
         - Description 2.
         - title: Description 3.
           contents:
