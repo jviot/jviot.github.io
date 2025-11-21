@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Contact
-permalink: jviot@chu-besancon.fr
+permalink: /
 
 profile:
   align: right
