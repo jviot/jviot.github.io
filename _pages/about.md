@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: id_low.png
+  image: id_low.PNG
   image_circular: true # crops the image to make it circular
   more_info: >
     <p style="font-size: 0.85rem;">UMQVC Bat. Bleu CHU Besançon</p>
