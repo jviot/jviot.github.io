@@ -119,9 +119,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts","_pages/cv.md"]
+include: ["_pages", "_scripts"]
 exclude:
-  - # à enlever si besoin d'un cv, modifier ensuite le fichier dans assets/json/resume.json
+  - #_pages/cv.md à enlever si besoin d'un cv, modifier ensuite le fichier dans assets/json/resume.json
   - _pages/repositories.md # a enlever si besoin d'une page code avec liens vers repos contenant code source de publis
   - bin/
   - CONTRIBUTING.md
