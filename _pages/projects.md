@@ -7,7 +7,20 @@ nav_order: 2
 display_categories: []
 horizontal: false
 ---
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px;">
+<img
+src="assets/img/97da0295-a339-4e00-aa3f-1fd9cc130ce3_182418261.png"
+alt="IA"
+style="width: 400px; height: 400px; object-fit: cover;"
+data-zoomable
+>
+<div style="flex: 1;">
+<h2>Titre de ton article</h2>
+<p>
 This portfolio presents a selection of bioinformatic methods I routinely use. While this list reflects my current expertise, I can also implement new analyses upon request, provided that relevant R packages or Python libraries are available.
+</p>
+</div>
+</div>
 
 To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference (e.g. bioinformatic algorithms implemented in Python taking advantage of GPU-accelerated computing).
 
