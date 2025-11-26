@@ -7,9 +7,12 @@ nav_order: 2
 display_categories: []
 horizontal: false
 ---
-<div style="display: flex; align-items: center; gap: 20px; margin: 20px;">
+<div class="container">
+<div class="row">
+<div class="col-4">
 {% include figure.html loading="eager" path="assets/img/97da0295-a339-4e00-aa3f-1fd9cc130ce3_182418261.png" title="Portfolio illustration" class="img-fluid rounded z-depth-1" style="width: 400px; height: 400px; object-fit: cover;" %} 
-<div style="flex: 1;">
+</div>
+<div class="col-8">
 <p>
 This portfolio presents a selection of bioinformatic methods I routinely use. While this list reflects my current expertise, I can also implement new analyses upon request, provided that relevant R packages or Python libraries are available.
 </p>
@@ -19,6 +22,7 @@ For questions or collaboration inquiries, you can reach me using the links in th
 <p>
 Currently under construction, the various analyses will be progressively completed.
 </p>
+</div>
 </div>
 </div>
 
