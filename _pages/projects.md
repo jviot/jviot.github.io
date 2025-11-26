@@ -8,19 +8,21 @@ display_categories: []
 horizontal: false
 ---
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px;">
-<img src="assets/img/97da0295-a339-4e00-aa3f-1fd9cc130ce3_182418261.png" alt="IA" style="width: 400px; height: 400px; object-fit: cover;" data-zoomable >
+{% include figure.liquid loading="eager" path="assets/img/97da0295-a339-4e00-aa3f-1fd9cc130ce3_182418261.png" title="Portfolio illustration" class="img-fluid rounded z-depth-1" style="width: 400px; height: 400px; object-fit: cover;" data-zoomable %} 
 <div style="flex: 1;">
 <p>
 This portfolio presents a selection of bioinformatic methods I routinely use. While this list reflects my current expertise, I can also implement new analyses upon request, provided that relevant R packages or Python libraries are available.
+</p>
+<p>
+For questions or collaboration inquiries, you can reach me using the links in the navigation bar of the <a href="mailto:jviot@chu-besancon.fr">Contact</a> section.
+</p>
+<p>
+Currently under construction, the various analyses will be progressively completed.
 </p>
 </div>
 </div>
 
 To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference (e.g. bioinformatic algorithms implemented in Python taking advantage of GPU-accelerated computing).
-
-For questions or collaboration inquiries, you can reach me using the links in the navigation bar of the <a href="mailto:jviot@chu-besancon.fr">Contact</a> section.
-
-Currently under construction, the various analyses will be progressively completed.
 
 With a strong background in cancer research and bioinformatics, I specialize in analyzing complex biological datasets to uncover insights into breast, lung, and colorectal cancers. Below are my key areas of expertise, ranging from well-established skills to exploratory techniques in genomics, transcriptomics, and computational biology.
 
