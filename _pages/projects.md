@@ -10,7 +10,7 @@ horizontal: false
 <div class="container">
 <div class="row">
 <div class="col-4">
-{% include figure.html loading="eager" path="assets/img/97da0295-a339-4e00-aa3f-1fd9cc130ce3_182418261.png" title="Portfolio illustration" class="img-fluid rounded z-depth-1" style="width: 400px; height: 400px; object-fit: cover;" %} 
+{% include figure.html loading="eager" path="assets/img/97da0295-a339-4e00-aa3f-1fd9cc130ce3_182418261.png" title="Portfolio illustration" class="img-fluid rounded z-depth-1" %} 
 </div>
 <div class="col-8">
 <p>
