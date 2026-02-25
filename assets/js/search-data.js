@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-skills",
+        },{id: "projects-liver-mets",
+          title: 'liver_mets',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liver_mets.html";
+            },},{id: "projects-skills",
           title: 'Skills',
           description: "",
           section: "Projects",handler: () => {
