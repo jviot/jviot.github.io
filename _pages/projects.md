@@ -4,7 +4,7 @@ title: Bioinformatic analyses
 permalink: /bioinformatic-analyses/
 nav: true
 nav_order: 2
-display_categories: [liver_mets, HERV]
+display_categories: [Projects]
 horizontal: false
 ---
 <div class="container">
