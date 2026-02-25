@@ -3,7 +3,7 @@ layout: page
 title: Liver Metastasis
 img: assets/img/metas.png
 importance: 1
-category: liver_mets
+category: Projects
 related_publications: false
 ---
 # Recherche sur les métastases hépatiques / Research on Liver Metastases
