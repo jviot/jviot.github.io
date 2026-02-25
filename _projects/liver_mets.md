@@ -1,10 +1,10 @@
 ---
 layout: page
 title: liver_mets
-img: assets/img/RightRlogo.png
+img: assets/img/metas.png
 importance: 1
 category: liver_mets
-related_publications: true
+related_publications: false
 ---
 # Recherche sur les métastases hépatiques / Research on Liver Metastases
 
