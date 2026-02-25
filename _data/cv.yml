@@ -24,6 +24,18 @@
       description:
         - Medical Oncologist
 
+    - title: Diplôme Universitaire
+      institution: Université de Bourgogne, Dijon, France
+      year: 2020
+      description:
+        -  Séquençage haut débit et maladies génétiques
+
+    - title: MOOC
+      institution: Université Numérique Française
+      year: 2018
+      description:
+        -  Python 3 : des fondamentaux aux concepts avancés du langage (INRA)
+        - Introduction à la statistique avec R (UPSUD- Pr Falissard)
 
 - title: Experience
   type: time_table
@@ -33,3 +45,9 @@
       year: 2015-Today
       description:
         - Clinical expertise in breast and lung cancers, and biological research expertise in colorectal cancers 
+        
+    - title: Inter-hospital exchange
+      institution: Gustave Roussy, France
+      year: 2015
+      description:
+        - A 6-month exchange as part of my training in clinical expertise in senology and bioinformatics within their department, under the METAPRISM project.
