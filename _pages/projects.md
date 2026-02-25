@@ -26,7 +26,7 @@ Currently under construction, the various analyses will be progressively complet
 </div>
 </div>
 
-To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and Nvidia A100 40GB GPUs for machine learning and AI model training and inference (e.g. bioinformatic algorithms implemented in Python taking advantage of GPU-accelerated computing).
+To support computationally intensive projects, I have access to the <a href="https://meso.univ-fcomte.fr/" target="_blank" rel="noopener noreferrer">Mésocentre de Franche-Comté</a> supercomputing facilities. This includes high-memory nodes (up to 1TB RAM) for large-scale data processing (e.g., expression matrices with millions of cells) and GPUs for machine learning and AI model training and inference.
 
 With a strong background in cancer research and bioinformatics, I specialize in analyzing complex biological datasets to uncover insights into breast, lung, and colorectal cancers. Below are my key areas of expertise, ranging from well-established skills to exploratory techniques in genomics, transcriptomics, and computational biology.
 
@@ -53,6 +53,7 @@ With a strong background in cancer research and bioinformatics, I specialize in 
 <li><strong>Proteomics (PepQuery)</strong></li>
 <li><strong>DNA-seq:</strong> Variant calling, copy number variation, genomic signatures</li>
 <li><strong>Fusion Transcripts</strong></li>
+<li><strong>TCRseq and BCRseq using MiXCR</strong></li>
 <li><strong>Digital Pathology (QuPath)</strong></li>
 </ul>
 </div>
