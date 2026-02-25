@@ -43,5 +43,6 @@ This project allowed me to develop hands-on expertise in:
 - **Transcriptomic analysis (Bulk RNA-seq)**.
 
 **Associated publication**: [PubMed (36387055)](https://pubmed.ncbi.nlm.nih.gov/36387055/).
+
 ---
 [🇫🇷 Version française](#fr) | [Back to top](#)
