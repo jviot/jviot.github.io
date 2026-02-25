@@ -2,7 +2,7 @@
 layout: page
 title: Cancer Associated Fibroblasts 
 img: assets/img/caf.png
-importance: 1
+importance: 3
 category: Projects
 related_publications: false
 ---
