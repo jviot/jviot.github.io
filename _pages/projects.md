@@ -39,13 +39,13 @@ With a strong background in cancer research and bioinformatics, I specialize in 
 <li><strong>Differential Gene Expression Analysis</strong>  ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>, <a href="https://jviot.github.io/publications/#esr1">2</a>, <a href="https://jviot.github.io/publications/#transipedia">3</a>, <a href="https://jviot.github.io/publications/#pan-cancer">4</a>, <a href="https://jviot.github.io/publications/#cd226">5</a>, <a href="https://jviot.github.io/publications/#fibroblast">6</a>)</li>
 <li><strong>Pathway Enrichment Analysis</strong>  ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>, <a href="https://jviot.github.io/publications/#esr1">2</a>, <a href="https://jviot.github.io/publications/#transipedia">3</a>, <a href="https://jviot.github.io/publications/#pan-cancer">4</a>, <a href="https://jviot.github.io/publications/#cd226">5</a>, <a href="https://jviot.github.io/publications/#fibroblast">6</a>)</li>
 <li><strong>Immune Deconvolution</strong>  ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>, <a href="https://jviot.github.io/publications/#cd226">5</a>)</li>
+<li><strong>Transcriptomics (Single-cell RNA-seq):</strong> Alignment and analysis (Seurat) ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>)</li>
 <li><strong>Transposable Elements (with a focus on Endogenous Retroviruses)</strong>  ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>)</li>
 <li><strong>Biostatistics and Modeling (Machine Learning)</strong>  ref(<a href="https://jviot.github.io/publications/#retrovirus">1</a>)</li>
 </ul>
 
 <div class="expertise-title">Limited/Exploratory Experience</div>
 <ul>
-<li><strong>Transcriptomics (Single-cell RNA-seq):</strong> Alignment and analysis (Seurat)</li>
 <li><strong>Metabam and IGV Visualization</strong></li>
 <li><strong>Genome Browser</strong></li>
 <li><strong>ATAQ-seq</strong></li>
