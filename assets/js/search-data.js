@@ -30,7 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-herv",
+        },{id: "projects-cancer-associated-fibroblasts",
+          title: 'Cancer Associated Fibroblasts',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/caf.html";
+            },},{id: "projects-herv",
           title: 'HERV',
           description: "",
           section: "Projects",handler: () => {
