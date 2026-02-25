@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/herv.html";
-            },},{id: "projects-liver-mets",
-          title: 'liver_mets',
+            },},{id: "projects-liver-metastasis",
+          title: 'Liver Metastasis',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/liver_mets.html";
