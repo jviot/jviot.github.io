@@ -4,7 +4,7 @@ title: HERV
 img: assets/img/ERV.png
 importance: 1
 category: HERV
-related_publications: true
+related_publications: false
 ---
 # Vignette 2 : Analyse des rétrovirus endogènes (ERV) / Endogenous Retroviruses (ERV) Analysis
 
