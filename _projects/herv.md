@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HERV
-img: assets/img/RightRlogo.png
+img: assets/img/ERV.png
 importance: 1
 category: HERV
 related_publications: true
