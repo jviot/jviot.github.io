@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Julien Viot# A MODIFIER
+first_name: Julien Viot # A MODIFIER
 last_name: MD, PhD # A MODIFIER
 contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
