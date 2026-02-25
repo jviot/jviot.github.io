@@ -1,6 +1,6 @@
 ---
 layout: page
-title: liver_mets
+title: Liver Metastasis
 img: assets/img/metas.png
 importance: 1
 category: liver_mets
